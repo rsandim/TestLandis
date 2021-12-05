@@ -1,0 +1,17 @@
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\bin\Debug\net5.0\TesteLandysDomain.deps.json
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\bin\Debug\net5.0\TesteLandysDomain.dll
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\bin\Debug\net5.0\ref\TesteLandysDomain.dll
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\bin\Debug\net5.0\TesteLandysDomain.pdb
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\bin\Debug\net5.0\TesteLandysModel.dll
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\bin\Debug\net5.0\TesteLandysRepository.dll
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\bin\Debug\net5.0\TesteLandysModel.pdb
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\bin\Debug\net5.0\TesteLandysRepository.pdb
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\obj\Debug\net5.0\TesteLandysDomain.csproj.AssemblyReference.cache
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\obj\Debug\net5.0\TesteLandysDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\obj\Debug\net5.0\TesteLandysDomain.AssemblyInfoInputs.cache
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\obj\Debug\net5.0\TesteLandysDomain.AssemblyInfo.cs
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\obj\Debug\net5.0\TesteLandysDomain.csproj.CoreCompileInputs.cache
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\obj\Debug\net5.0\TesteLandysDomain.csproj.CopyComplete
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\obj\Debug\net5.0\TesteLandysDomain.dll
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\obj\Debug\net5.0\ref\TesteLandysDomain.dll
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysDomain\obj\Debug\net5.0\TesteLandysDomain.pdb

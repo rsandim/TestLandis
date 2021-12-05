@@ -1,0 +1,11 @@
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysModels\bin\Debug\net5.0\TesteLandysModel.deps.json
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysModels\bin\Debug\net5.0\TesteLandysModel.dll
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysModels\bin\Debug\net5.0\ref\TesteLandysModel.dll
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysModels\bin\Debug\net5.0\TesteLandysModel.pdb
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysModels\obj\Debug\net5.0\TesteLandysModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysModels\obj\Debug\net5.0\TesteLandysModel.AssemblyInfoInputs.cache
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysModels\obj\Debug\net5.0\TesteLandysModel.AssemblyInfo.cs
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysModels\obj\Debug\net5.0\TesteLandysModel.csproj.CoreCompileInputs.cache
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysModels\obj\Debug\net5.0\TesteLandysModel.dll
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysModels\obj\Debug\net5.0\ref\TesteLandysModel.dll
+C:\Users\rafael.k\source\repos\TesteLandys\TesteLandysModels\obj\Debug\net5.0\TesteLandysModel.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TesteLandysModel/1.0.0": {
+        "runtime": {
+          "TesteLandysModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteLandysModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
